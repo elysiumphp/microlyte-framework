@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-> Note: This repository contains the core code of the PetalPHP Microlyte framework. If you want to build an application using PetalPHP Microlyte, visit the main [Microlyte repository](https://github.com/petalphp/microlyte/).
+> Note: This repository contains the core code of the PetalPHP Microlyte framework. If you want to build an application using PetalPHP Microlyte, visit the main [Microlyte repository](https://github.com/elysiumlphp/microlyte/).
 
 Microlyte is a sleek and agile micro-framework designed for developers who crave simplicity without compromising on power. Like a finely tuned instrument, it offers a minimalistic yet robust foundation, allowing you to craft web applications with ease and precision. With its intuitive architecture and lightweight footprint, Micrlyte PHP empowers you to focus on writing clean, maintainable code, transforming complex development tasks into an enjoyable and seamless experience. Whether you're building a small project or a scalable enterprise solution, Micrlyte is the elegant tool that adapts to your needs, embodying both efficiency and elegance in the world of web development.
 
